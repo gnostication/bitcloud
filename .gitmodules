@@ -1,3 +1,6 @@
-[submodule "src/libuv"]
-	path = src/libuv
-	url = https://github.com/joyent/libuv.git
+[submodule "bitcloud.c"]
+	path = bitcloud.c
+	url = https://github.com/wetube/bitcloud.c
+[submodule "bitcloud.js"]
+	path = bitcloud.js
+	url = https://github.com/wetube/bitcloud.js
